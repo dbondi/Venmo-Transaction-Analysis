@@ -1,6 +1,6 @@
 # Venmo-Transaction-Analysis
 
-The following analyis was done for eductional purposes and uses Venmo transactions gathered of the course of a month.
+The following analyis was done for eductional purposes and uses Venmo transactions gathered of the course of a month in November 2020.
 
 In order to obtain the Venmo transactions used in this analysis one can use the following url venmo.com/username, where username is the unique username for each user. Given a valid username you are given an html file including the most recent 5 public transaction; from each transaction we can get the time sent, the usernames of the people involved in the transaction, and the message accompanying the transaction. This seems to be the only way at the moment of viewing public Venmo transactions without signing in to Venmo. If one wants to request a multitude of user transaction the hardest step will be finding valid usernames. In this analyis the folllowing method is used.
 
