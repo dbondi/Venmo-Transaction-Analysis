@@ -10,7 +10,7 @@ In order to obtain the Venmo transactions used in this analysis one can use the 
 
 There are two problems that arise in this method, we tend to get almost no older transactions as  we are only being shown the most recent transactions coupled with the fact that users who are involved in a recent transaction tend to be frequently using Venmo and so their 5 recent transactions will all be very new. Another problem is we quickly run out of new users to seach, as many users either Venmo very few people or groups of friends tend to only Venmo other friends which creates cycles, this can be thought of as a cycle in graph theory.
 
-To reduce these cycling and recency problems. We observe that most Venmo usernames have a common theme, as most users go with the default username. Whis is of the form:
+To reduce these cycling and recency problems. We observe that most Venmo usernames have a common theme, as most users go with the default username. Which is of the form:
 **first_name-last_name-number** Example: John-Doe-10
 
 This number tends to be an increment based on how many people with the same first name and last name signed up before any user.
