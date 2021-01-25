@@ -17,4 +17,4 @@ This number tends to be an increment based on how many people with the same firs
 Therefore if this number is low we can assume that be searching with same first name and last name with small number increments we can obtain more users.
 This turns out to help solve both the cycling and recency problems.
 
-The code to do this wont be provided however is a fairly straightforward.
+The code to do this wont be provided however is fairly straightforward.
