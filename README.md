@@ -54,7 +54,7 @@ Here we used fuel pump emoji ⛽ to predict gasoline sales
     <a href="https://plotly.com/~dbondi/26/?share_key=DS4OuA3Vfc7QkgJDZhIVpl" target="_blank" title="Gasoline Sales Prediction" style="display: block; text-align: center;"><img src="https://plotly.com/~dbondi/26.png?share_key=DS4OuA3Vfc7QkgJDZhIVpl" alt="Gasoline Sales Prediction" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
    
 where 
-predicted_sales = 2,463,013 x emoji_frequency + 20042
+predicted_sales_in_millions = 2,463,013 x emoji_frequency + 20042
 
 ![Gasoline Linear Regresion](https://user-images.githubusercontent.com/30188191/105788355-569ab780-5f4e-11eb-9171-2f186b11469c.PNG)
 
