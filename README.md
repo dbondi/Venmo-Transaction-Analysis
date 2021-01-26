@@ -26,8 +26,6 @@ This number tends to be an increment based on how many people with the same firs
 Therefore if this number is low we can assume that be searching with same first name and last name with smaller number increments we can obtain valid usernames.
 This turns out to help solve both the cycling and recency problems.
 
-The code to do this wont be provided however is fairly straightforward.
-
 # Analysing Data
 
 When analyzing the frequency of emojis used in a given time period we will use the following method.
