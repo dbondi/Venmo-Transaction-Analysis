@@ -24,7 +24,7 @@ To reduce these cycling and recency problems. We observe that most Venmo usernam
 
 This number tends to be an increment based on how many people with the same first name and last name signed up before any user.
 Therefore if this number is low we can assume that be searching with same first name and last name with smaller number increments we can obtain valid usernames.
-This turns out to help solve both the cycling and recency problems.
+This turns out to help solve both the cycling and recency problems, although getting a sizable sample of very old transactions is still hard.
 
 # Analysing Data
 
