@@ -1,6 +1,6 @@
 # Venmo-Transaction-Analysis
 
-The following analyis was done for eductional purposes and uses Venmo transactions gathered of the course of a month in November 2020.
+The following analysis was done for eductional purposes and uses Venmo transactions gathered of the course of a month in November 2020.
 
 # Introduction to Venmo
 
