@@ -56,6 +56,8 @@ predicted_sales_in_millions = 2,463,013 x emoji_frequency + 20042
 
 ![Gasoline Linear Regresion](https://user-images.githubusercontent.com/30188191/105788355-569ab780-5f4e-11eb-9171-2f186b11469c.PNG)
 
+source: https://www.statista.com/statistics/1026897/us-retail-gasoline-station-sales-on-a-monthly-basis/
+
 **Predicting Airline Passengers**
 
 Here we used the aggregate of the following emojis ✈️🛩️🛫🛬
@@ -67,6 +69,6 @@ where predicted_travelers = 566,398,903 x emoji_frequency - 1,606,061
 
 ![Regression Passenger Statistics](https://user-images.githubusercontent.com/30188191/105788767-27d11100-5f4f-11eb-8205-894a563217f1.PNG)
 
-
+source: https://www.tsa.gov/coronavirus/passenger-throughput
 
 
