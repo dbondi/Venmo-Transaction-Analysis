@@ -32,5 +32,6 @@ The code to do this wont be provided however is fairly straightforward.
 # Analysing Data
 
 When analyzing the frequency of emojis used in a given time period we will use the following method.
+![Emoji_Frequency_equation](https://user-images.githubusercontent.com/30188191/105787011-1803fd80-5f4c-11eb-867f-6b18436e111c.PNG)
 
 
