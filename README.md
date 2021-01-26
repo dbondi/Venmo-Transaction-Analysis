@@ -41,5 +41,7 @@ You can find the frequency of certian emojis used in the folder Emoji-Frequencie
 
 Some of the results will be displayed here.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dbondi/26.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~dbondi/26/?share_key=DS4OuA3Vfc7QkgJDZhIVpl" target="_blank" title="Gasoline Sales Prediction" style="display: block; text-align: center;"><img src="https://plotly.com/~dbondi/26.png?share_key=DS4OuA3Vfc7QkgJDZhIVpl" alt="Gasoline Sales Prediction" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+   
 
