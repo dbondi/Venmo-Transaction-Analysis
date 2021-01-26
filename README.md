@@ -41,6 +41,10 @@ You can find the frequency of certian emojis used in the folder Emoji-Frequencie
 
 Some of the results will be displayed here.
 
+**Most Used Emojis**
+
+![Emoji_Frequency_table](https://user-images.githubusercontent.com/30188191/105788563-bdb86c00-5f4e-11eb-839f-4ece603fa638.PNG)
+
 **Predicting Gasoline Sales**
 
 Here we used fuel pump emoji ⛽ to predict gasoline sales 
@@ -51,5 +55,20 @@ Here we used fuel pump emoji ⛽ to predict gasoline sales
 where predicted_sales = 2,463,013 x emoji_frequency + 20042
 
 ![Gasoline Linear Regresion](https://user-images.githubusercontent.com/30188191/105788355-569ab780-5f4e-11eb-9171-2f186b11469c.PNG)
+
+**Predicting Airline Passengers**
+
+Here we used the aggregate of the folling emojis ✈️🛩️🛫🛬
+
+<div>
+    <a href="https://plotly.com/~dbondi/22/?share_key=waOwWjZsvO89plKycGr5dC" target="_blank" title="Predicting Plane Passengers" style="display: block; text-align: center;"><img src="https://plotly.com/~dbondi/22.png?share_key=waOwWjZsvO89plKycGr5dC" alt="Predicting Plane Passengers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="dbondi:22" sharekey-plotly="waOwWjZsvO89plKycGr5dC" src="https://plotly.com/embed.js" async></script>
+</div>
+
+where predicted_travelers = 566,398,903 x emoji_frequency - 1,606,061
+
+![Regression Passenger Statistics](https://user-images.githubusercontent.com/30188191/105788767-27d11100-5f4f-11eb-8205-894a563217f1.PNG)
+
+
 
 
