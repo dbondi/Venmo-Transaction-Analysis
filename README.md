@@ -34,4 +34,13 @@ The code to do this wont be provided however is fairly straightforward.
 When analyzing the frequency of emojis used in a given time period we will use the following method.
 ![Emoji_Frequency_equation](https://user-images.githubusercontent.com/30188191/105787011-1803fd80-5f4c-11eb-867f-6b18436e111c.PNG)
 
+Here we divide by the number of posts containing any emoji and not the total number of posts because the use of emojis is not consistent with the number of posts as emojis have become more popular in recent years. Additionally, we will only count the use of a specific emoji once per post, as posts can potentially contain thousands of the same emoji.
+
+# Results
+You can find the frequency of certian emojis used in the folder Emoji-Frequencies.
+
+Some of the results will be displayed here.
+
+https://plotly.com/~dbondi/26/
+
 
