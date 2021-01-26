@@ -60,7 +60,7 @@ predicted_sales = 2,463,013 x emoji_frequency + 20042
 
 **Predicting Airline Passengers**
 
-Here we used the aggregate of the folling emojis ✈️🛩️🛫🛬
+Here we used the aggregate of the following emojis ✈️🛩️🛫🛬
 
 <div>
     <a href="https://plotly.com/~dbondi/22/?share_key=waOwWjZsvO89plKycGr5dC" target="_blank" title="Predicting Plane Passengers" style="display: block; text-align: center;"><img src="https://plotly.com/~dbondi/22.png?share_key=waOwWjZsvO89plKycGr5dC" alt="Predicting Plane Passengers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
