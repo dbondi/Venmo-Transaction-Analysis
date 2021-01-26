@@ -36,7 +36,9 @@ When analyzing the frequency of emojis used in a given time period we will use t
 Here we divide by the number of posts containing any emoji and not the total number of posts because the use of emojis is not consistent with the number of posts as emojis have become more popular in recent years. Additionally, we will only count the use of a specific emoji once per post, as posts can potentially contain thousands of the same emoji.
 
 # Results
-You can find the frequency of certian emojis used in the folder Emoji-Frequencies.
+You can find the number of emojis sent per second in Emojis-per-second, which contains the average number of emojis sent per sent over an hour.
+You can find the total number of emojis sent per second in Total-Emojis.
+From this one can calculate the emoji frequency. 
 
 Some of the results will be displayed here.
 
