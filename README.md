@@ -62,8 +62,6 @@ Here we used the aggregate of the folling emojis ✈️🛩️🛫🛬
 
 <div>
     <a href="https://plotly.com/~dbondi/22/?share_key=waOwWjZsvO89plKycGr5dC" target="_blank" title="Predicting Plane Passengers" style="display: block; text-align: center;"><img src="https://plotly.com/~dbondi/22.png?share_key=waOwWjZsvO89plKycGr5dC" alt="Predicting Plane Passengers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="dbondi:22" sharekey-plotly="waOwWjZsvO89plKycGr5dC" src="https://plotly.com/embed.js" async></script>
-</div>
 
 where predicted_travelers = 566,398,903 x emoji_frequency - 1,606,061
 
